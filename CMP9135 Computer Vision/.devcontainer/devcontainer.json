@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Computer Vision",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9135:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
